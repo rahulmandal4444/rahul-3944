@@ -4,4 +4,4 @@ i have made changes after that
 # teacher
 shradha khapra
 # student 
-rahul mandal
+rahul
